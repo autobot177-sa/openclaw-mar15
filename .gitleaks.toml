@@ -1,0 +1,3 @@
+[allowlist]
+  description = "Global allowlist"
+  regexes = ['''example''', '''test.*key''', '''placeholder''']
